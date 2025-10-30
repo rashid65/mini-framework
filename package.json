@@ -1,0 +1,14 @@
+{
+  "name": "mini-framework",
+  "version": "1.0.0",
+  "description": "A minimal JavaScript framework with TodoMVC example",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["framework", "javascript", "todomvc"],
+  "author": "Rashid",
+  "license": "MIT"
+}
